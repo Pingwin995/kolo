@@ -1,0 +1,2 @@
+# kolo
+Zadania z kolokwium
